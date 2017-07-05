@@ -1,0 +1,28 @@
+.header {
+	text-align: right;
+}
+
+.main {
+	text-align: center;
+	/*margin: auto;*/
+
+}
+
+.footer {
+	/*text-align: left;*/
+	position: fixed;
+	bottom: 0px;
+}
+
+li {
+	display: inline;
+}
+
+#liens-bas-droite {
+	float: right;
+}
+
+#liens-bas-gauche {
+	text-align: left;
+
+}
